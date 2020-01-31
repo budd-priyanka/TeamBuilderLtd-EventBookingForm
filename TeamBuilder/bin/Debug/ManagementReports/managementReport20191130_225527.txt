@@ -1,0 +1,38 @@
+REPORTING TIME: Saturday, November 30, 2019 10:55:27 PM
+
+BOOKING NUMBER --> EVENT NAME @ LOCATION --> QUANTITY OF PLACES SOLD --> EVENT COST (€)
+******************************************************************************
+
+364666 --> Murder Mystery Weekend @ Galway --> 1 Place(s) --> €1,125.00
+112790 --> The Chase @ Dublin --> 1 Place(s) --> €3,015.00
+112790 --> The Chase @ Galway --> 1 Place(s) --> €3,447.00
+112790 --> The Chase @ Belmullet --> 1 Place(s) --> €3,855.00
+112790 --> Murder Mystery Weekend @ Belmullet --> 1 Place(s) --> €1,309.00
+112790 --> The Chase @ Belmullet --> 3 Place(s) --> €3,630.00
+802146 --> Digital Refresh @ Galway --> 4 Place(s) --> €4,496.00
+802146 --> CSI Weekend @ Belmullet --> 2 Place(s) --> €1,915.00
+802146 --> Action Photography @ Dublin --> 7 Place(s) --> €1,824.00
+802146 --> War Games @ Galway --> 4 Place(s) --> €13,684.00
+******************************************************************************
+
+AVAILABLE EVENT PLACES
+
+                      	CORK	DUBLIN	GALWAY	BELMULLET	BELFAST
+MURDER MYSTERY WEEKEND	35		67		11		76		32	
+CSI WEEKEND           	28		3		34		10		7	
+THE GREAT OUTDOORS    	23		2		6		4		3	
+THE CHASE             	12		5		8		0		6	
+DIGITAL REFRESH       	2		0		3		5		8	
+ACTION PHOTOGRAPHY    	1		1		4		7		4	
+TEAM RYDER CUP        	16		24		40		4		12	
+ABSEILING             	3		7		45		3		3	
+WAR GAMES             	45		11		52		12		23	
+FIND WALLY            	0		0		3		0		0	
+
+******************************************************************************
+
+TOTAL NUMBER OF BOOKINGS: 10
+TOTAL BOOKING COST: €38300.00
+AVERAGE BOOKING COST: €3830.00
+******************************************************************************
+

@@ -1,0 +1,30 @@
+REPORTING TIME: Saturday, November 30, 2019 11:03:59 PM
+
+BOOKING NUMBER --> EVENT NAME @ LOCATION --> QUANTITY OF PLACES SOLD --> EVENT COST (€)
+******************************************************************************
+
+121798 --> The Great Outdoors @ Cork --> 9 Place(s) --> €23,850.00
+121798 --> Abseiling @ Dublin --> 7 Place(s) --> €829.00
+******************************************************************************
+
+AVAILABLE EVENT PLACES
+
+                      	CORK	DUBLIN	GALWAY	BELMULLET	BELFAST
+MURDER MYSTERY WEEKEND	35		67		11		76		32	
+CSI WEEKEND           	28		3		34		10		7	
+THE GREAT OUTDOORS    	14		2		6		4		3	
+THE CHASE             	12		5		8		0		6	
+DIGITAL REFRESH       	2		0		3		5		8	
+ACTION PHOTOGRAPHY    	1		1		4		6		4	
+TEAM RYDER CUP        	16		24		40		4		12	
+ABSEILING             	3		0		45		3		3	
+WAR GAMES             	45		7		52		12		23	
+FIND WALLY            	0		0		3		0		0	
+
+******************************************************************************
+
+TOTAL NUMBER OF BOOKINGS: 2
+TOTAL BOOKING COST: €24679.00
+AVERAGE BOOKING COST: €12339.50
+******************************************************************************
+

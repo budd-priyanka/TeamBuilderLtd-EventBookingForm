@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\TeamBuilder\bin\Debug\TeamBuilder.exe.config
+C:\Users\Lenovo\source\repos\TeamBuilder\bin\Debug\TeamBuilder.exe
+C:\Users\Lenovo\source\repos\TeamBuilder\bin\Debug\TeamBuilder.pdb
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.TeamBuilder.resources
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.exe
+C:\Users\Lenovo\source\repos\TeamBuilder\obj\Debug\TeamBuilder.pdb
